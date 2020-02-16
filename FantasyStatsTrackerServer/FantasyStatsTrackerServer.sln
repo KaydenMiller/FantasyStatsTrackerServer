@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FantasyStatsTrackerServer.Api", "FantasyStatsTrackerServer.Api\FantasyStatsTrackerServer.Api.csproj", "{6A69D8A0-2F90-4E25-82A3-2CE9D06B9C2C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FantasyStatsTracker.IdentityServer", "FantasyStatsTracker.IdentityServer\FantasyStatsTracker.IdentityServer.csproj", "{6D3461BE-3AC2-4734-BFD8-56742E066521}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{6A69D8A0-2F90-4E25-82A3-2CE9D06B9C2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6A69D8A0-2F90-4E25-82A3-2CE9D06B9C2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6A69D8A0-2F90-4E25-82A3-2CE9D06B9C2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D3461BE-3AC2-4734-BFD8-56742E066521}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D3461BE-3AC2-4734-BFD8-56742E066521}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D3461BE-3AC2-4734-BFD8-56742E066521}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D3461BE-3AC2-4734-BFD8-56742E066521}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
